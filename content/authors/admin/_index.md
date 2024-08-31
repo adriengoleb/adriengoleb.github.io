@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Anh-Dzung Doan
+title: Adrien Golebiewski
 
 # Full name (for SEO)
-first_name: Anh-Dzung
-last_name: Doan
+first_name: Adrien
+last_name: Golebiewski
 
 # Status emoji
 status:
@@ -14,31 +14,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher 
+role: AI Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Australian Institute for Machine Learning
-    url: https://www.adelaide.edu.au/aiml/
+  - name: Ecole des Mines Paris - PSL CMM Laboratory
+  - Company: Lerity
+    url: hhttps://www.lerity-alcen.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the area of robotic vision, at the intersection of robotics, computer vision, and machine learning.
+bio: My research interests lie in the area of scene understanding, at the intersection of computer vision, perception, and deep learning for industrial issues.
 
 # Interests to show in About widget
 interests:
   - Computer Vision
-  - Machine Learning
-  - Robotics
+  - Deep Learning 
+  - Domain shift for industrial 
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science 
-      institution: The University of Adelaide
-      year: 2022
-    - course: B.Sc. (Hons) in Information Technology
-      institution: Vietnam National University - HCMC (University of Science) 
-      year: 2013
+    - course: Ph.D. in Mathematics
+      institution: Ecole des Mines Paris - PSL
+      year: 2024-2028
+    - course: MSs in AI, Systems and Data
+      institution: PSL Research University (Paris Dauphine, Mines Paris, ENS Paris)
+      year: 2023-2024
+    - course: MSc in Big Data
+      institution: EiCNAM - Engineering School of CNAM
+      year: 2019-2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -87,7 +91,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:dzungdoan6@gmail.com'
+    link: 'mailto:adrien.golebiewski@laposte.net'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/DzungDoan6
@@ -99,7 +103,7 @@ social:
     link: https://scholar.google.com/citations?user=Ch9rZ_kAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/dzungdoan6
+    link: https://github.com/adriengoleb
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/dzunganhdoan/
