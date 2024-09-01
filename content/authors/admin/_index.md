@@ -118,12 +118,12 @@ social:
 highlight_name: true
 ---
 
-Anh-Dzung (Dzung) Doan is a postdoctoral researcher at the [Sentient Satellites Lab](https://www.ai4space.group/) of the [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/). He completed his Ph.D. in the School of Computer and Mathematical Sciences at the University of Adelaide. His research interests lie in the area of robotic vision, at the intersection of robotics, computer vision, and machine learning.
+Adrien Golebiewski is an AI Research Scientist at [Lerity](https://www.lerity-alcen.com/) and Ph.D. candidate in the Centre for Mathematical Morphology (CMM) at the Ecole des Mines Paris - PSL. His research interests lie in the area of scene understanding, at the intersection of computer vision, and deep learning.
 <!-- , with the mentorship of Prof. [Tat-Jun Chin](https://scholar.google.com/citations?hl=en&user=WyqGF10AAAAJ), Dr. [Yasir Latif](https://scholar.google.com/citations?hl=en&user=pGsO6EkAAAAJ), and Prof. [Ian Reid](https://scholar.google.com/citations?user=ATkNLcQAAAAJ&hl=en) -->
 
-He has a strong publication record, with 20+ papers in major AI conferences and journals, as well as one US patent pending. His contributions have been recognised with the [IEEE RA-L Best Paper Award 2021](uploads/RAL_best_paper.jpg) and the [APRS/IAPR Best Paper Award in DICTA 2019](uploads/DICTA_best_paper.jpg). Additionally, he regularly serves as a reviewer for major AI conferences and journals. 
+<!--  He has a strong publication record, with 20+ papers in major AI conferences and journals, as well as one US patent pending. His contributions have been recognised with the [IEEE RA-L Best Paper Award 2021](uploads/RAL_best_paper.jpg) and the [APRS/IAPR Best Paper Award in DICTA 2019](uploads/DICTA_best_paper.jpg). Additionally, he regularly serves as a reviewer for major AI conferences and journals. -->
 
-He has held research positions and collaborated with several organisations, including [Safran](https://www.safran-group.com/), [SmartSat CRC](https://smartsatcrc.com/), [Niantic](https://nianticlabs.com/), the [Australian Centre for Robotic Vision](https://roboticvision.org/), [Temasek Labs@SUTD](https://temasek-labs.sutd.edu.sg/), the [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/english/), and [FIT@HCMUS](https://www.fit.hcmus.edu.vn/en/).
+He has held research and engineer positions with several industrial organisations, including [Lerity](https://www.lerity-alcen.com/), [Safran](https://www.safran-group.com/) and [Dassault Aviation](https://www.dassault-aviation.com/fr/).
 
-<b><em>Here is my [resume (1-page)](uploads/resume.pdf) and [CV (full)](uploads/cv_full.pdf)</em></b>
+<b><em>For more informations, here is my [CV (full)](uploads/cv_full.pdf)</em></b>
 {style="text-align: justify;"}
