@@ -29,7 +29,7 @@ bio: My research interests lie in the area of scene understanding, at the inters
 interests:
   - Computer Vision
   - Deep Learning 
-  - Domain shift for industrial 
+  - Domain shift for industrial issues
 
 # Education to show in About widget
 education:
