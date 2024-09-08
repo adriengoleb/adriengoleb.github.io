@@ -25,9 +25,9 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
-  - name: Mentorship
-    url: '#supervision'
-    weight: 60
+  #- name: Mentorship
+  #  url: '#supervision'
+  #  weight: 60
   - name: Services
     url: '#services'
     weight: 70
