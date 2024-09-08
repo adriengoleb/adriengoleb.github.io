@@ -135,8 +135,8 @@ sections:
         US Patent Application Number 17730555
     design:
       columns: '2'
-  - block: Accomplishments
-    id: awards
+  - block: Workshops/Presentations
+    id: Workshops/Presentations
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Workshops/Presentations'

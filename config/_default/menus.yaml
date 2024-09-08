@@ -17,7 +17,7 @@ main:
     url: '#patent'
     weight: 40
   - name: Workshops/Presentations
-    url: '#Presentations'
+    url: '#Workshops/Presentations'
     weight: 50
   # - name: Projects
   #   url: '#projects'
@@ -28,9 +28,9 @@ main:
   #- name: Mentorship
   #  url: '#supervision'
   #  weight: 60
-  - name: Services
-    url: '#services'
-    weight: 70
+  #- name: Services
+  #  url: '#services'
+  #  weight: 70
   - name: Contact
     url: '#contact'
     weight: 80
