@@ -16,8 +16,8 @@ main:
   - name: Patent
     url: '#patent'
     weight: 40
-  - name: Awards
-    url: '#awards'
+  - name: Workshops/Presentations
+    url: '#Presentations'
     weight: 50
   # - name: Projects
   #   url: '#projects'

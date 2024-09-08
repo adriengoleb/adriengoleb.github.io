@@ -321,7 +321,7 @@ sections:
         street: 8 rue Jacquier
         city: Paris
         region: Ile de France
-        postcode: '5000'
+        postcode: '33200'
         country: France
         # country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -330,8 +330,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '-34.9208706504973'
-        longitude: '138.608083258885'  
+        latitude: '48.83001387646631'
+        longitude: '2.318220951206624'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
