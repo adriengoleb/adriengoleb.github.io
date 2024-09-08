@@ -23,7 +23,7 @@ organizations:
     url: hhttps://www.lerity-alcen.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the area of scene understanding, at the intersection of computer vision, perception, and deep learning for industrial issues.
+bio: My research interests lie in the area of scene understanding, at the intersection of computer vision, perception, and Deep learning for industrial issues.
 
 # Interests to show in About widget
 interests:

@@ -314,15 +314,15 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: 'dzungdoan6@gmail.com'
+      email: 'adrien.golebiewski@laposte.net'
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: G07.1, Ground floor, AIML Building, Lot Fourteen, Corner Frome Road and North Terrace
-        city: Adelaide
-        region: SA
+        street: 8 rue Jacquier
+        city: Paris
+        region: Ile de France
         postcode: '5000'
-        country: Australia
+        country: France
         # country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
