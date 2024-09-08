@@ -135,11 +135,11 @@ sections:
         US Patent Application Number 17730555
     design:
       columns: '2'
-  - block: Workshops/Presentations
-    id: Workshops/Presentations
+  - block: Accomplishments
+    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Workshops/Presentations'
+      title: 'Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -281,10 +281,31 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-
-
-
-
+  - block: markdown
+    id: supervision
+    content:
+      title: Mentorship
+      text: 
+        I co-supervise following Ph.D. students
+        <br>
+        <ul class="roman">
+          <li>Andrew Du - Topic<span>:</span> Edge domain adaptation</li>
+          <li>Ryan Faulkner - Topic<span>:</span> Diffusion models for LiDAR</li>
+          <li>Tam Nguyen - Topic<span>:</span> Neuromorphic computing for robust fitting</li>
+          <li>Anh Vu Nguyen - Topic<span>:</span> Active learning for streaming data</li>
+        </ul>
+    design:
+      columns: '2'
+  - block: markdown
+    id: services
+    content:
+      title: Services
+      text: 
+        Conference reviewer<span>:</span> [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros), [CVPR](https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition), [ICCV](https://en.wikipedia.org/wiki/International_Conference_on_Computer_Vision), [ECCV](https://en.wikipedia.org/wiki/European_Conference_on_Computer_Vision), [ACCV](https://link.springer.com/conference/accv), [ACML](http://www.wikicfp.com/cfp/program?id=40), [AAAI](https://aaai.org/conference/aaai/), [DICTA](http://www.wikicfp.com/cfp/program?id=710).
+        <br>
+        Journal reviewer<span>:</span> [RA-L](https://www.ieee-ras.org/publications/ra-l), [IJRR](https://journals.sagepub.com/home/ijr), [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [TAI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence), [NCAA](https://link.springer.com/journal/521), [APSIPA](https://www.nowpublishers.com/SIP), [TETCI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).  
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
@@ -310,7 +331,7 @@ sections:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '48.83001387646631'
-        longitude: '2.318220951206624'  
+        longitude: '2.318439997234179'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
