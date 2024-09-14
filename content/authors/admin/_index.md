@@ -37,12 +37,15 @@ education:
     - course: Ph.D. in Mathematics
       institution: Ecole des Mines Paris - PSL
       year: 2024-2028
-    - course: MSs in AI, Systems and Data
-      institution: PSL Research University (Paris Dauphine, Mines Paris, ENS Paris)
+    - course: Research MSs in AI, Systems and Data
+      institution: PSL Research University (Paris Dauphine, Ecole des Mines Paris, ENS Paris)
       year: 2023-2024
-    - course: MSc in Big Data
+    - course: Engineering MSc in Big Data/AI
       institution: EiCNAM - Engineering School of CNAM
       year: 2019-2022
+    - course: Bachelor Degree
+      institution: University of Bordeaux - Talence
+      year: 2017-2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
