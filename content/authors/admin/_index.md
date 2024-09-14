@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: AI Research Scientist
+role: AI Research Scientist at Lerity
 
 # Organizations/Affiliations to show in About widget
 organizations:

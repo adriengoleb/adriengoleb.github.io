@@ -112,30 +112,34 @@ sections:
   #     view: compact
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: Compact
-  - block: markdown
-    id: patent
-    content:
-      title: Patent
-      text: 
-        <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US377615335">Repeatability predictions of interest points</a>
-        <br>
-        Dung Anh Doan, Daniyar Turmukhambetov, Soohyun Bae
-        <br>
-        US Patent Application Number 17730555
-    design:
-      columns: '2'
-      
+
+
+#  - block: collection
+#    id: publications
+#    content:
+#      title: Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      columns: '2'
+#      view: Compact
+#  - block: markdown
+#    id: patent
+#    content:
+#      title: Patent
+#     text: 
+#        <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US377615335">Repeatability predictions of interest points</a>
+#        <br>
+#        Dung Anh Doan, Daniyar Turmukhambetov, Soohyun Bae
+#        <br>
+#        US Patent Application Number 17730555
+#    design:
+#      columns: '2'
+
+   
+   
   - block: markdown
     id: Workshops/Presentations
     content:
