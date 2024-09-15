@@ -112,11 +112,9 @@ sections:
   #     view: compact
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-
-
   - block: collection
     id: publications
-   content:
+    content:
       title: Publications
       filters:
         folders:
@@ -129,7 +127,7 @@ sections:
     id: patent
     content:
       title: Patent
-     text: 
+      text: 
         <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US377615335">Repeatability predictions of interest points</a>
         <br>
         Dung Anh Doan, Daniyar Turmukhambetov, Soohyun Bae
@@ -137,9 +135,7 @@ sections:
         US Patent Application Number 17730555
     design:
       columns: '2'
-
-   
-   
+      
   - block: markdown
     id: Workshops/Presentations
     content:
@@ -221,44 +217,41 @@ sections:
           url: ''
     design:
       columns: '2'
-
-
-
-   - block: collection
-     id: posts
-     content:
-       title: Recent Posts
-       subtitle: ''
-       text: ''
-       # Choose how many pages you would like to display (0 = all pages)
-       count: 5
-       # Filter on criteria
-       filters:
-         folders:
-           - post
-         author: ""
-         category: ""
-         tag: ""
-         exclude_featured: false
-         exclude_future: false
-         exclude_past: false
-         publication_type: ""
-       # Choose how many pages you would like to offset by
-       offset: 0
-       # Page order: descending (desc) or ascending (asc) date.
-       order: desc
-     design:
-       # Choose a layout view
-       view: compact
-       columns: '2'
-   - block: markdown
-     content:
-       title: Gallery
-       subtitle: ''
-       text: |-
-         {{< gallery album="demo" >}}
-     design:
-       columns: '1'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   
   # - block: collection
   #   content:
